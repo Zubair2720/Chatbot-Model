@@ -1,0 +1,5 @@
+pip install streamlit google-genai python-dotenv
+pip install langchain-community langchain-core
+pip install langchain-text-splitters
+pip install langchain-chroma langchain-google-genai
+pip install pypdf
